@@ -17,7 +17,7 @@
 > Dashboard
 - make a GUI DashBoard
 
-> UserIntrface
+> UserInterface
 - Make Simple UI to Interact with system
 - Include options to manage tasks, manage sprints, and view the burndown count for a sprint.
 
